@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.Enterid{
+background-color: blue;
+color: white;
+border-radius: 5px;
+width: 80px;
+align-self: center;
+}
+.room{
+  display: flex;
+  flex-direction: column;
+}
+.input{
+  width: 150px;
+  align-self:center ;
+  border-color: blue;
+  border-radius: 7px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.roomname{
+  margin-top: 20px;
+  align-self: center;
+}
+
